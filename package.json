@@ -10,10 +10,9 @@
   "keywords": [
     "movieDb",
     "webhook",
-    "nodejs",
-    "siddajmera"
+    "nodejs"
   ],
-  "author": "Siddharth Ajmera (SiddAjmera)",
+  "author": "Joseph",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
